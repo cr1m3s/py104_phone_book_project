@@ -1,3 +1,5 @@
+
+
 class PhoneBook:
     
     __slots__ = ('constacts', )
@@ -13,4 +15,4 @@ class PhoneBook:
 
     def find_contact(self, contact = None):
         pass
-
+        
